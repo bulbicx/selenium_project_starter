@@ -5,6 +5,8 @@ Project:
 Create a 'functional' front end and test it with Selenium.
 Recommended to use VSCode Live Server for HTML hosting AND bootstrap for ease of web component creation
 
+Create a Java or Spring project for testing with Selenium
+
 Either fork or git clone down this project to create your own
 
 ## Project requirements:
