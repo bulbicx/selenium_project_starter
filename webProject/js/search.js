@@ -10,7 +10,6 @@ let searchResults = () => {
     console.log(searchResult);
 
 }
-
 searchButton.addEventListener('click', searchResults);
 
 
