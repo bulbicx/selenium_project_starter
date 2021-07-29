@@ -1,0 +1,28 @@
+.d-flex {
+    padding: 16px;
+    width: 40%;
+    margin: 16px auto;
+  
+    box-shadow: 2px 2px 3px 1px gray;
+}
+
+footer {
+    padding: 16px;
+}
+
+.blog-post-title {
+    padding: 16px;
+    width: 30%;
+
+    box-shadow: 2px 2px 3px 1px gray;
+}
+
+.productHeads {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
