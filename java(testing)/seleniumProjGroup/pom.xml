@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.qa</groupId>
-	<artifactId>seleniumProj</artifactId>
+	<artifactId>seleniumProjGroup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>selenium_project</name>
+	<name>selenium_proj_group</name>
 
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
