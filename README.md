@@ -9,7 +9,7 @@ Either fork or git clone down this project to create your own
 
 ## Project requirements:
 
-You've been tasked with creating a website for the notorious brewery 'FermentCat' which will require the following pages:
+You've been tasked with creating a website for the famous brewery 'FermentCat' which will require the following pages:
 
 - Home page
 - Products Page: 
