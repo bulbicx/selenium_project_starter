@@ -26,3 +26,17 @@ footer {
   margin-right: 0;
   font-weight: bold;
 }
+
+#post1,
+#post2,
+#post3 {
+    display: none;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: whitesmoke;
+}
+
+.container {
+    background-color: white;
+}
