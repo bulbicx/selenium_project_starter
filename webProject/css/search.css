@@ -55,3 +55,19 @@ footer {
 #infobutton:hover {
     background: linear-gradient(45deg, greenyellow, dodgerblue);
   }
+  
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
