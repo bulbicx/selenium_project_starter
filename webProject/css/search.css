@@ -1,0 +1,76 @@
+.d-flex {
+    padding: 16px;
+    width: 40%;
+    margin: 16px auto;
+    box-shadow: 2px 2px 3px 1px gray;
+}
+
+footer {
+    padding: 16px;
+}
+
+.blog-post-title {
+  padding: 16px;
+  width: 30%;
+  box-shadow: 2px 2px 3px 1px gray;
+}
+
+.productHeads {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+#post1,
+#post2,
+#post3 {
+  display: none;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 1em;
+  background-color: whitesmoke;
+}
+
+.container {
+  background-color: white;
+}
+.infoform{
+  padding: 16px;
+}
+
+.center {
+  padding: 30px 30px;
+  border-radius: 10px;
+}
+
+#search:hover {
+  background: linear-gradient(45deg, greenyellow, dodgerblue);
+}
+#infobutton:hover {
+  background: linear-gradient(45deg, greenyellow, dodgerblue);
+}
+  
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: whitesmoke;
+  padding: 0.75em;
+}
